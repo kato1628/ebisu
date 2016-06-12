@@ -1,3 +1,4 @@
+// http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_A
 #include<stdio.h>
 
 int search(int A[], int n, int key){
